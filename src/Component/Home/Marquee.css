@@ -1,0 +1,32 @@
+.marquee-container {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .marquee-text {
+    animation: marquee 20s linear infinite;
+    white-space: nowrap;
+  }
+  
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+
+  .animated-text {
+    animation: fade-in 1s ease-in-out;
+  }
+  
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  } 
