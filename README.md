@@ -4,7 +4,7 @@
 Welcome to Hero Toys website
 
 # [Live Website]( https://toys-shop-57e84.web.app)
-# [server git-link ](https://github.com/RezoanulHasan/hero-toys-client)
+# [server git-link ](https://github.com/RezoanulHasan/hero-toys-server)
 #  [server site live ](https://hero-toys.vercel.app)
 
 ## Features
